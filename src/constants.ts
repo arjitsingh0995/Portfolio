@@ -82,39 +82,39 @@ export const RESUME_DATA = {
   certificates: [
   {
     title: "Cloud_Security_Automation",
-    image: "/src/assets/certificates/_Cloud_Security_Automation_Student_Certificate_page-0001.jpg"
+    image: "/certificates/_Cloud_Security_Automation_Student_Certificate_page-0001.jpg"
   },
   {
     title: "Cloud_Security Fundamentals",
-    image: "/src/assets/certificates/Cloud_Security_Fundamentals.jpg"
+    image: "/certificates/Cloud_Security_Fundamentals.jpg"
   },
   {
     title: "Cybersecurity_Foundation",
-    image: "/src/assets/certificates/Cybersecurity_Foundation_Student_Certificate_page-0001.jpg"
+    image: "/certificates/Cybersecurity_Foundation_Student_Certificate_page-0001.jpg"
   },
   {
     title: "Network_Security_Fundamentals",
-    image: "/src/assets/certificates/Network_Security_Fundamentals_Student_Certificate_page-0001.jpg"
+    image: "/certificates/Network_Security_Fundamentals_Student_Certificate_page-0001.jpg"
   },
   {
     title: "Security_Operations_Fundamentals",
-    image: "/src/assets/certificates/Security_Operations_Fundamentals_Student_Certificate_page-0001.jpg"
+    image: "/certificates/Security_Operations_Fundamentals_Student_Certificate_page-0001.jpg"
   },
   {
     title: "AWS cloud practitioner",
-    image: "/src/assets/certificates/AWS cloud practitioner_page-0001.jpg"
+    image: "/certificates/AWS cloud practitioner_page-0001.jpg"
   },
   {
     title: "Cisco_AI",
-    image: "/src/assets/certificates/ciscoai.jpg"
+    image: "/certificates/ciscoai.jpg"
   },
   {
     title: "JPMorgan",
-    image: "/src/assets/certificates/JPMorgan.jpg"
+    image: "/certificates/JPMorgan.jpg"
   },
   {
     title: "Java Programming",
-    image: "/src/assets/certificates/Java Programming Certificate Simplilearn_page-0001.jpg"
+    image: "/certificates/Java Programming Certificate Simplilearn_page-0001.jpg"
   }
 ]
 };
