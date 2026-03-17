@@ -6,8 +6,7 @@ This project showcases my skills, projects, and experience as a developer.
 ---
 
 ## 🌐 Live Demo
-👉 [Visit Portfolio](#)  
-https://portfolio-wine-psi-aop94ivkup.vercel.app/
+👉 https://portfolio-wine-psi-aop94ivkup.vercel.app/
 
 ---
 
@@ -39,7 +38,7 @@ Hi, I'm **Arjit Singh**, a passionate developer focused on building modern web a
 ---
 
 ## 📂 Project Structure
-![Portfolio Screenshot](./public/certificates/your-image-name.png)
+![Portfolio Screenshot](./public/certificates/structure.png)
 
 ---
 
@@ -64,7 +63,7 @@ Hi, I'm **Arjit Singh**, a passionate developer focused on building modern web a
 
 ## 📸 Screenshots
 
-*(Add your portfolio screenshots here)*
+![Portfolio Screenshot](./public/certificates/portss.png)
 
 ---
 
