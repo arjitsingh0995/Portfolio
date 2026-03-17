@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experience as a developer.
 
 ## 🌐 Live Demo
 👉 [Visit Portfolio](#)  
-*(Add your deployed link here — Vercel / Netlify)*
+https://portfolio-wine-psi-aop94ivkup.vercel.app/
 
 ---
 
