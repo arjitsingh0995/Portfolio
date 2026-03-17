@@ -38,7 +38,7 @@ Hi, I'm **Arjit Singh**, a passionate developer focused on building modern web a
 ---
 
 ## 📂 Project Structure
-![Portfolio Screenshot](./public/certificates/structure.png)
+![Portfolio Screenshot](public/certificates/structure.png)
 
 ---
 
@@ -63,7 +63,7 @@ Hi, I'm **Arjit Singh**, a passionate developer focused on building modern web a
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](./public/certificates/portss.png)
+![Portfolio Screenshot](public/certificates/portss.png)
 
 ---
 
