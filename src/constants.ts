@@ -22,10 +22,17 @@ export const RESUME_DATA = {
       period: "2021 – 2022",
       score: "Percentage: 81",
       location: "Kanpur"
+    },
+    {
+      institution: "Mother Teresa Higher Secondary School, Kanpur Nagar",
+      degree: "Secondary",
+      period: "2019 – 2020",
+      score: "Percentage: 79",
+      location: "Kanpur"
     }
   ],
   skills: {
-    programming: ["Python", "C", "C++", "Java", "JavaScript"],
+    programming: ["Python", "C", "C++", "Java", "JavaScript","SQL"],
     web: ["HTML5", "CSS3", "React", "Bootstrap"],
     security: ["OWASP Top 10"],
     tools: ["VS Code", "IntelliJ IDEA", "PyCharm", "Git", "GitHub"],
